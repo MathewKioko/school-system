@@ -13,8 +13,8 @@ Make sure you have the following installed on your machine:
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/MathewKioko/School-Management-System.git
-    cd School-Management-System
+    git clone https://github.com/MathewKioko/school-system.git
+    cd school-system
     ```
 
 2. **Install npm dependencies:**

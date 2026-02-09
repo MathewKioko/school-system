@@ -1,9 +1,9 @@
 # 🏫 School Management System
 
-[![GitHub stars](https://img.shields.io/github/stars/MathewKioko/School-Management-System?style=for-the-badge&logo=github)](https://github.com/MathewKioko/School-Management-System/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/MathewKioko/School-Management-System?style=for-the-badge&logo=github)](https://github.com/MathewKioko/School-Management-System/network)
-[![GitHub commits](https://img.shields.io/github/commit-activity/m/MathewKioko/School-Management-System?style=for-the-badge&logo=github)](https://github.com/MathewKioko/School-Management-System/commits)
-[![GitHub last commit](https://img.shields.io/github/last-commit/MathewKioko/School-Management-System?style=for-the-badge&logo=github)](https://github.com/MathewKioko/School-Management-System/commits)
+[![GitHub stars](https://img.shields.io/github/stars/MathewKioko/school-system?style=for-the-badge&logo=github)](https://github.com/MathewKioko/school-system/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/MathewKioko/school-system?style=for-the-badge&logo=github)](https://github.com/MathewKioko/school-system/network)
+[![GitHub commits](https://img.shields.io/github/commit-activity/m/MathewKioko/school-system?style=for-the-badge&logo=github)](https://github.com/MathewKioko/school-system/commits)
+[![GitHub last commit](https://img.shields.io/github/last-commit/MathewKioko/school-system?style=for-the-badge&logo=github)](https://github.com/MathewKioko/school-system/commits)
 
 [![Node.js](https://img.shields.io/badge/Node.js-20.x-339933?style=flat-square&logo=node.js)](https://nodejs.org/)
 [![React](https://img.shields.io/badge/React-18.x-61DAFB?style=flat-square&logo=react)](https://reactjs.org/)
@@ -105,8 +105,8 @@ Ensure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/MathewKioko/School-Management-System.git
-   cd School-Management-System
+   git clone https://github.com/MathewKioko/school-system.git
+   cd school-system
    ```
 
 2. **Install Backend Dependencies**
@@ -322,17 +322,17 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - 📖 Check the [User Guide](docs/USER_GUIDE.md) for common tasks
 - ❓ Read the [FAQ](docs/FAQ.md) for frequently asked questions
 - 🐛 Review [Troubleshooting](docs/TROUBLESHOOTING.md) for common issues
-- 💡 Search [existing issues](https://github.com/MathewKioko/School-Management-System/issues)
+- 💡 Search [existing issues](https://github.com/MathewKioko/school-system/issues)
 
 ### Community
 
-- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/MathewKioko/School-Management-System/issues)
-- 💡 **Feature Requests**: [GitHub Discussions](https://github.com/MathewKioko/School-Management-System/discussions)
+- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/MathewKioko/school-system/issues)
+- 💡 **Feature Requests**: [GitHub Discussions](https://github.com/MathewKioko/school-system/discussions)
 
 ### Project Maintainers
 
 - **Lead Developer**: [MathewKioko](https://github.com/MathewKioko)
-- **Contributors**: [View all contributors](https://github.com/MathewKioko/School-Management-System/contributors)
+- **Contributors**: [View all contributors](https://github.com/MathewKioko/school-system/contributors)
 
 ---
 
@@ -340,7 +340,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **⭐ Star this repository if you find it helpful!**
 
-[🏠 Website](https://schoolms.com) | [📖 Documentation](docs/) | [🐛 Report Bug](https://github.com/MathewKioko/School-Management-System/issues) | [💡 Request Feature](https://github.com/MathewKioko/School-Management-System/issues)
+[🏠 Website](https://schoolms.com) | [📖 Documentation](docs/) | [🐛 Report Bug](https://github.com/MathewKioko/school-system/issues) | [💡 Request Feature](https://github.com/MathewKioko/school-system/issues)
 
 <!-- GitAds-Verify: A3898VA57LNIZEPDEGTSOVBB3TUDWA6H -->
 
@@ -349,7 +349,7 @@ Made with ❤️ by Mathew Kioko
 </div>
 
 ## GitAds Sponsored
-[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=MathewKioko/school-management-system@github)](https://gitads.dev/v1/ad-track?source=MathewKioko/school-management-system@github)
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=MathewKioko/school-system@github)](https://gitads.dev/v1/ad-track?source=MathewKioko/school-system@github)
 
 
 
